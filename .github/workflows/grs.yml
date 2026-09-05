@@ -12,19 +12,21 @@ jobs:
     steps:
       - uses: actions/checkout@v6
       - name: Generate stats card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
           options: "username=xmfcx&show_icons=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=0,ff00aa,ffd500"
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
       - name: Generate top langs card
-        uses: readme-tools/github-readme-stats-action@v1
+        uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
           options: "username=xmfcx&hide=fortran,html,makefile"
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
       - name: Commit cards
         run: |
           git config user.name "github-actions"
@@ -34,12 +36,6 @@ jobs:
             echo "No changes to commit"
             exit 0
           fi
-          COMMIT_MSG="ci: update readme cards"
-          LAST_MSG=$(git log -1 --pretty=%s)
-          if [ "$LAST_MSG" = "$COMMIT_MSG" ]; then
-            git commit --amend -m "$COMMIT_MSG"
-            git push --force-with-lease
-          else
-            git commit -m "$COMMIT_MSG"
-            git push
-          fi
+          git commit -m "ci(profile): update readme cards" \
+            -m "Signed-off-by: Mete Fatih Cırıt <mfc@autoware.org>"
+          git push

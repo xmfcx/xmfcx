@@ -1,8 +1,8 @@
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=415 align="center" src="./profile/stats.svg" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img width=415 align="center" src="./profile/stats.svg" alt="GitHub stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img width=300 align="center" src="./profile/top-langs.svg" />
+<a href="https://github.com/stats-organization/github-stats-extended">
+  <img width=300 align="center" src="./profile/top-langs.svg" alt="Top languages" />
 </a>
 
 <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
