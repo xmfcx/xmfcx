@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mete Fatih C&#305;r&#305;t&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 67, Total Commits  (last year) : 873, Total PRs: 992, Total PRs Merged: 897, Merged PRs Percentage: 90.42, Total PRs Reviewed: 509, Total Issues: 225, Total Discussions Started: 143, Total Discussions Answered: 14, Contributed to (last year): 48</desc>
+        <desc id="descId">Total Stars Earned: 67, Total Commits  (last year) : 875, Total PRs: 992, Total PRs Merged: 898, Merged PRs Percentage: 90.52, Total PRs Reviewed: 513, Total Issues: 225, Total Discussions Started: 143, Total Discussions Answered: 14, Contributed to (last year): 47</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 42.0589162431768;
+        stroke-dashoffset: 42.03832873669463;
       }
     }
   
@@ -191,7 +191,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >873</text>
+      >875</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -221,7 +221,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged"
-      >897</text>
+      >898</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -236,7 +236,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >90.42 %</text>
+      >90.52 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -251,7 +251,7 @@
         x="224.01"
         y="12.5"
         data-testid="reviews"
-      >509</text>
+      >513</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
@@ -311,7 +311,7 @@
         x="224.01"
         y="12.5"
         data-testid="contribs"
-      >48</text>
+      >47</text>
     </g>
   </g>
     </svg>
