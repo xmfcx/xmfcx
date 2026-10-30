@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mete Fatih C&#305;r&#305;t&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 67, Total Commits  (last year) : 975, Total PRs: 1099, Total PRs Merged: 973, Merged PRs Percentage: 88.54, Total PRs Reviewed: 537, Total Issues: 247, Total Discussions Started: 146, Total Discussions Answered: 14, Contributed to (last year): 71</desc>
+        <desc id="descId">Total Stars Earned: 67, Total Commits  (last year) : 989, Total PRs: 1113, Total PRs Merged: 986, Merged PRs Percentage: 88.59, Total PRs Reviewed: 539, Total Issues: 247, Total Discussions Started: 146, Total Discussions Answered: 14, Contributed to (last year): 71</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 41.09375854496494;
+        stroke-dashoffset: 40.986928248912875;
       }
     }
   
@@ -191,7 +191,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >975</text>
+      >989</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">
@@ -221,7 +221,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged"
-      >973</text>
+      >986</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -236,7 +236,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >88.54 %</text>
+      >88.59 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -251,7 +251,7 @@
         x="224.01"
         y="12.5"
         data-testid="reviews"
-      >537</text>
+      >539</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
