@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Mete Fatih C&#305;r&#305;t&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 67, Total Commits  (last year) : 1244, Total PRs: 1239, Total PRs Merged: 1101, Merged PRs Percentage: 88.86, Total PRs Reviewed: 567, Total Issues: 261, Total Discussions Started: 150, Total Discussions Answered: 14, Contributed to (last year): 82</desc>
+        <desc id="descId">Total Stars Earned: 67, Total Commits  (last year) : 1245, Total PRs: 1243, Total PRs Merged: 1109, Merged PRs Percentage: 89.22, Total PRs Reviewed: 555, Total Issues: 261, Total Discussions Started: 150, Total Discussions Answered: 14, Contributed to (last year): 82</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 39.583002611281415;
+        stroke-dashoffset: 39.579317413956225;
       }
     }
   
@@ -236,7 +236,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >88.86 %</text>
+      >89.22 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -251,7 +251,7 @@
         x="224.01"
         y="12.5"
         data-testid="reviews"
-      >567</text>
+      >555</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
